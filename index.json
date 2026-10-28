@@ -1,0 +1,737 @@
+[
+  {
+    "name": "18漫画",
+    "key": "mh18",
+    "version": "1.0.0",
+    "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/mh18.js",
+    "description": "来源：官方"
+  },
+  {
+    "name": "CCC追漫台",
+    "key": "ccc",
+    "version": "1.0.1",
+    "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/ccc.js",
+    "description": "来源：官方"
+  },
+  {
+    "name": "GoDa漫画",
+    "key": "goda",
+    "version": "1.2.1",
+    "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/goda.js",
+    "description": "来源：官方"
+  },
+  {
+    "name": "H-Comic",
+    "key": "hcomic",
+    "version": "1.0.0",
+    "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/hcomic.js",
+    "description": "来源：官方"
+  },
+  {
+    "name": "Kavita",
+    "key": "kavita",
+    "version": "1.0.0",
+    "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/kavita.js",
+    "description": "来源：官方"
+  },
+  {
+    "name": "Komga",
+    "key": "komga",
+    "version": "1.0.0",
+    "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/komga.js",
+    "description": "来源：官方"
+  },
+  {
+    "name": "Komiic",
+    "key": "Komiic",
+    "version": "1.0.3",
+    "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/komiic.js",
+    "description": "来源：官方"
+  },
+  {
+    "name": "Lanraragi",
+    "key": "lanraragi",
+    "version": "1.1.0",
+    "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/lanraragi.js",
+    "description": "来源：官方"
+  },
+  {
+    "name": "MYCOMIC",
+    "key": "mycomic",
+    "version": "1.1.0",
+    "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/mycomic.js",
+    "description": "mycomic.com漫画源, 遇到Cloudflare验证请在源设置中登录｜来源：官方"
+  },
+  {
+    "name": "MangaDex",
+    "key": "manga_dex",
+    "version": "1.2.0",
+    "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/manga_dex.js",
+    "description": "Forum login and comments are supported.｜来源：官方"
+  },
+  {
+    "name": "Picacg",
+    "key": "picacg",
+    "version": "1.0.6",
+    "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/picacg.js",
+    "description": "来源：官方"
+  },
+  {
+    "name": "comick",
+    "key": "comick",
+    "version": "1.2.0",
+    "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/comick.js",
+    "description": "来源：官方"
+  },
+  {
+    "name": "ehentai",
+    "key": "ehentai",
+    "version": "1.1.8",
+    "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/ehentai.js",
+    "description": "来源：官方"
+  },
+  {
+    "name": "hitomi.la",
+    "key": "hitomi",
+    "version": "1.1.2",
+    "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/hitomi.js",
+    "description": "来源：官方"
+  },
+  {
+    "name": "jcomic.net",
+    "key": "jcomic",
+    "version": "1.0.0",
+    "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/jcomic.js",
+    "description": "来源：官方"
+  },
+  {
+    "name": "nhentai",
+    "key": "nhentai",
+    "version": "1.1.0",
+    "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/nhentai.js",
+    "description": "来源：官方"
+  },
+  {
+    "name": "カドコミ",
+    "key": "comic_walker",
+    "version": "1.0.1",
+    "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/comic_walker.js",
+    "description": "来源：官方"
+  },
+  {
+    "name": "优酷漫画",
+    "key": "ykmh",
+    "version": "1.0.0",
+    "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/ykmh.js",
+    "description": "来源：官方"
+  },
+  {
+    "name": "再漫画",
+    "key": "zaimanhua",
+    "version": "1.0.2",
+    "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/zaimanhua.js",
+    "description": "来源：官方"
+  },
+  {
+    "name": "包子漫画",
+    "key": "baozi",
+    "version": "1.1.6",
+    "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/baozi.js",
+    "description": "来源：官方"
+  },
+  {
+    "name": "嗨皮漫画",
+    "key": "happy",
+    "version": "1.0.0",
+    "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/happy.js",
+    "description": "中国大陆及日韩IP无法访问，遇到403可以尝试切换其他地区网络｜来源：官方"
+  },
+  {
+    "name": "少年ジャンプ＋",
+    "key": "shonen_jump_plus",
+    "version": "1.1.1",
+    "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/shonen_jump_plus.js",
+    "description": "来源：官方"
+  },
+  {
+    "name": "拷贝漫画",
+    "key": "copy_manga",
+    "version": "1.4.3",
+    "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/copy_manga.js",
+    "description": "来源：官方"
+  },
+  {
+    "name": "拷贝漫画(多账号)",
+    "key": "copy_manga_multi_accounts",
+    "version": "1.4.1",
+    "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/copy_manga_multi_accounts.js",
+    "description": "来源：官方"
+  },
+  {
+    "name": "漫小肆",
+    "key": "mxs",
+    "version": "1.0.0",
+    "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/mxs.js",
+    "description": "来源：官方"
+  },
+  {
+    "name": "漫画1234",
+    "key": "mh1234",
+    "version": "1.0.0",
+    "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/mh1234.js",
+    "description": "来源：官方"
+  },
+  {
+    "name": "漫画人",
+    "key": "manhuaren",
+    "version": "1.0.0",
+    "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/manhuaren.js",
+    "description": "来源：官方"
+  },
+  {
+    "name": "漫画柜",
+    "key": "ManHuaGui",
+    "version": "1.2.1",
+    "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/manhuagui.js",
+    "description": "来源：官方"
+  },
+  {
+    "name": "漫蛙吧",
+    "key": "manwaba",
+    "version": "1.0.2",
+    "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/manwaba.js",
+    "description": "来源：官方"
+  },
+  {
+    "name": "热辣漫画",
+    "key": "hot_manga",
+    "version": "1.0.0",
+    "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/hot_manga.js",
+    "description": "来源：官方"
+  },
+  {
+    "name": "爱看漫",
+    "key": "ikmmh_官方",
+    "version": "1.0.6",
+    "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/ikmmh.js",
+    "description": "来源：官方"
+  },
+  {
+    "name": "禁漫天堂",
+    "key": "jm",
+    "version": "1.4.0",
+    "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/jm.js",
+    "description": "禁漫天堂漫畫源, 不能使用時請嘗試切換分流｜来源：官方"
+  },
+  {
+    "name": "紳士漫畫",
+    "key": "wnacg",
+    "version": "1.0.6",
+    "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/wnacg.js",
+    "description": "紳士漫畫漫畫源, 不能使用時請嘗試更換URL｜来源：官方"
+  },
+  {
+    "name": "311漫画",
+    "key": "s311_com",
+    "version": "1.2.0",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/311.js",
+    "description": "非个人自制，增加发现页，重做分类页，详情页补全信息｜来源：Junkrat9527"
+  },
+  {
+    "name": "4399漫画网",
+    "key": "mh4399",
+    "version": "1.0.5",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/mh4399.js",
+    "description": "非个人自制，修复搜索问题，增加漫画详情页链接复制，支持链接解析跳转｜来源：Junkrat9527"
+  },
+  {
+    "name": "51漫画",
+    "key": "manga51",
+    "version": "1.3.0",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/51manga.js",
+    "description": "非个人自制，增加漫画详情页链接复制，支持链接解析跳转｜来源：Junkrat9527"
+  },
+  {
+    "name": "51漫画",
+    "key": "manga51_junkrat9527",
+    "version": "1.2.0",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/manga51.js",
+    "description": "来源：Junkrat9527"
+  },
+  {
+    "name": "A漫",
+    "key": "aman8",
+    "version": "1.0.0",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/aman.js",
+    "description": "H｜来源：Junkrat9527"
+  },
+  {
+    "name": "Jmcomic",
+    "key": "jmx",
+    "version": "2.1.0",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/jmcomic.js",
+    "description": "H｜来源：Junkrat9527"
+  },
+  {
+    "name": "Komiic",
+    "key": "Komiic_junkrat9527",
+    "version": "1.0.8",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/komiic_dual.js",
+    "description": "来源：Junkrat9527"
+  },
+  {
+    "name": "LINE WEBTOON",
+    "key": "webtoons_zh_hant",
+    "version": "1.0.1",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/webtoons_zh_hant.js",
+    "description": "非个人自制｜来源：Junkrat9527"
+  },
+  {
+    "name": "MOJOIN",
+    "key": "mojoin",
+    "version": "1.0.8",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/mojoin.js",
+    "description": "非个人自制，增加漫画详情页链接复制，支持链接解析跳转｜来源：Junkrat9527"
+  },
+  {
+    "name": "MOJOIN",
+    "key": "mojoin_v2",
+    "version": "1.0.7",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/mojoin_fixed_v107.js",
+    "description": "来源：Junkrat9527"
+  },
+  {
+    "name": "Mangabz",
+    "key": "mangabz",
+    "version": "1.0.0",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/mangabz.js",
+    "description": "列表 / 搜索 / chapterimage.ashx｜来源：Junkrat9527"
+  },
+  {
+    "name": "NoyManga",
+    "key": "noymanga",
+    "version": "1.1.5",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/noymanga.js",
+    "description": "来源：Junkrat9527"
+  },
+  {
+    "name": "Pixiv",
+    "key": "pixiv",
+    "version": "1.9.0",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/pixiv.js",
+    "description": "支持账号密码、网页、token登录，可屏蔽r18、r18g、ai内容，支持链接解析跳转，已支持多账号，增加系列连载，增加服务端 AI/R18 设置，增加推荐画师缓存，暂时无法攻破直连问题｜来源：Junkrat9527"
+  },
+  {
+    "name": "Rawkuma",
+    "key": "rawkuma",
+    "version": "1.1.3",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/rawkuma.js",
+    "description": "非个人自制，修复漫画详情页章节标题异常问题，增加漫画详情页链接复制，支持链接解析跳转｜来源：Junkrat9527"
+  },
+  {
+    "name": "SF漫画",
+    "key": "sfacg_manhua",
+    "version": "1.0.2",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/sfacg_manhua.js",
+    "description": "非个人自制，增加漫画详情页链接复制，支持链接解析跳转｜来源：Junkrat9527"
+  },
+  {
+    "name": "W漫画",
+    "key": "wmanhua",
+    "version": "1.0.2",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/wmanhua.js",
+    "description": "非个人自制，增加漫画详情页链接复制，支持链接解析跳转｜来源：Junkrat9527"
+  },
+  {
+    "name": "X漫画",
+    "key": "xmanhua",
+    "version": "1.8.1",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/xmanhua.js",
+    "description": "非个人自制，重做发现页，新增分类页，优化漫画详情页，增加漫画详情页链接复制，支持链接解析跳转｜来源：Junkrat9527"
+  },
+  {
+    "name": "yande.re",
+    "key": "yandere",
+    "version": "4.9.3",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/yandere.js",
+    "description": "个人自制，支持账号密码、网页登录。支持评论，评论区可跳转被评论作品，支持网络收藏夹，支持收藏作品到网络收藏夹，支持分类搜索，支持非精确搜索，支持网页语言切换，可屏蔽s、q内容，支持分类页和发现页，支持链接解析跳转，支持漫画详情页链接复制｜来源：Junkrat9527"
+  },
+  {
+    "name": "zero搬运网",
+    "key": "zerobyw",
+    "version": "1.3.0",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/zero.js",
+    "description": "增加获取最新链接，增加分类页和发现页的翻页，增加漫画详情页链接复制，支持链接解析跳转｜来源：Junkrat9527"
+  },
+  {
+    "name": "zero搬运网",
+    "key": "zerobyw33",
+    "version": "1.2.0",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/zerobyw33.js",
+    "description": "来源：Junkrat9527"
+  },
+  {
+    "name": "优酷漫画 (修复版)",
+    "key": "ykmh_junkrat9527",
+    "version": "1.0.6",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/youku.js",
+    "description": "来源：Junkrat9527"
+  },
+  {
+    "name": "动漫啦",
+    "key": "dongman_la",
+    "version": "1.0.3",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/dongman_la.js",
+    "description": "非个人自制，增加漫画详情页链接复制，支持链接解析跳转｜来源：Junkrat9527"
+  },
+  {
+    "name": "动漫啦",
+    "key": "dongman_la_junkrat9527",
+    "version": "1.0.1",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/dongman_la_fixed_v101.js",
+    "description": "来源：Junkrat9527"
+  },
+  {
+    "name": "动漫啦",
+    "key": "dongmanla",
+    "version": "1.0.0",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/dongmanla.js",
+    "description": "搜索 / 连载完结分类 / 章节 / 图片｜来源：Junkrat9527"
+  },
+  {
+    "name": "动漫屋",
+    "key": "dm5",
+    "version": "7.0.3",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/dm5.js",
+    "description": "来源：Junkrat9527"
+  },
+  {
+    "name": "古风漫画",
+    "key": "gfmh",
+    "version": "1.3.1",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/gfmh.js",
+    "description": "非个人自制，增加漫画详情页链接复制，支持链接解析跳转｜来源：Junkrat9527"
+  },
+  {
+    "name": "咚漫",
+    "key": "dongman",
+    "version": "1.0.8",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/dongman.js",
+    "description": "非个人自制，增加漫画详情页链接复制，支持链接解析跳转｜来源：Junkrat9527"
+  },
+  {
+    "name": "咚漫",
+    "key": "dongmanmanhua",
+    "version": "1.0.6",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/dongmanmanhua.js",
+    "description": "来源：Junkrat9527"
+  },
+  {
+    "name": "哔哩漫画",
+    "key": "bilimanga",
+    "version": "1.6.2",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/bilimanga.js",
+    "description": "非个人自制，修复搜索功能，增加漫画详情页链接复制，支持链接解析跳转｜来源：Junkrat9527"
+  },
+  {
+    "name": "图库漫画",
+    "key": "tuku_cc",
+    "version": "1.0.2",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/tuku_cc.js",
+    "description": "非个人自制，增加漫画详情页链接复制，支持链接解析跳转｜来源：Junkrat9527"
+  },
+  {
+    "name": "好看漫画",
+    "key": "haokan_txt",
+    "version": "1.0.4",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/haokan.js",
+    "description": "非个人自制，补全详情页信息，制作发现页、分类页｜来源：Junkrat9527"
+  },
+  {
+    "name": "如漫画",
+    "key": "rumanhua",
+    "version": "2.4.1",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/rumanhua.js",
+    "description": "非个人自制，增加访问地址和图片质量，修复阅读报错问题，修复搜索异常问题，增加漫画详情页链接复制，支持链接解析跳转｜来源：Junkrat9527"
+  },
+  {
+    "name": "如漫画",
+    "key": "rumanhua_fixed_v15",
+    "version": "1.2.8",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/rumanhua_fixed_v16.js",
+    "description": "来源：Junkrat9527"
+  },
+  {
+    "name": "嬉皮漫画",
+    "key": "hipmh",
+    "version": "1.0.6",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/hipmh.js",
+    "description": "非个人自制，修复链接解析跳转｜来源：Junkrat9527"
+  },
+  {
+    "name": "布卡漫画",
+    "key": "bukamh",
+    "version": "1.2.9",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/bukamh.js",
+    "description": "非个人自制，增加发现页，增加漫画详情页链接复制，支持链接解析跳转｜来源：Junkrat9527"
+  },
+  {
+    "name": "思思漫画",
+    "key": "sisimanhua",
+    "version": "1.0.0",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/sisimanhua.js",
+    "description": "qTcms base64 图片｜来源：Junkrat9527"
+  },
+  {
+    "name": "来漫画",
+    "key": "laimanhua_split",
+    "version": "1.2.2",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/laimanhua.js",
+    "description": "非个人自制，增加漫画详情页链接复制，支持链接解析跳转｜来源：Junkrat9527"
+  },
+  {
+    "name": "来漫画（分流）",
+    "key": "laimanhua_split_junkrat9527",
+    "version": "1.2.1",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/laimanhua_split_hosts_v1.2.1_configurable.js",
+    "description": "来源：Junkrat9527"
+  },
+  {
+    "name": "极速漫画",
+    "key": "one_kkk",
+    "version": "2.0.0",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/one_kkk.js",
+    "description": "非个人自制，删除发现页无效的查看更多按键，增加漫画详情页链接复制，支持链接解析跳转｜来源：Junkrat9527"
+  },
+  {
+    "name": "次元漫画",
+    "key": "cycomic",
+    "version": "1.0.3",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/cycomic.js",
+    "description": "非个人自制，根据野蛮漫画重做｜来源：Junkrat9527"
+  },
+  {
+    "name": "漫客栈",
+    "key": "mkzhan",
+    "version": "1.1.4",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/mkzhan.js",
+    "description": "非个人自制，新增分类页，重做发现页，优化漫画详情页显示，增加漫画详情页链接复制，支持链接解析跳转｜来源：Junkrat9527"
+  },
+  {
+    "name": "漫本",
+    "key": "manben",
+    "version": "1.1.0",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/manben.js",
+    "description": "非个人自制，按照dm5重做｜来源：Junkrat9527"
+  },
+  {
+    "name": "漫画kan",
+    "key": "mhkan",
+    "version": "1.1.7",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/mhkan.js",
+    "description": "非个人自制，重做发现页，新增分类页，优化漫画详情页，增加漫画详情页链接复制，支持链接解析跳转｜来源：Junkrat9527"
+  },
+  {
+    "name": "漫画皮",
+    "key": "manhuapi",
+    "version": "1.4.2",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/manhuapi.js",
+    "description": "非个人自制，搜索因官方关闭所以无法正常搜索，重做发现页，新增分类页，漫画详情页优化，增加发现页，增加漫画详情页链接复制，支持链接解析跳转｜来源：Junkrat9527"
+  },
+  {
+    "name": "漫网",
+    "key": "manwang",
+    "version": "1.3.4",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/manwang.js",
+    "description": "非个人自制，修复发现页标题显示异常问题，增加漫画详情页链接复制，支持链接解析跳转｜来源：Junkrat9527"
+  },
+  {
+    "name": "漫网",
+    "key": "manwang_junkrat9527",
+    "version": "1.2.0",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/manwang_fixed_v120.js",
+    "description": "来源：Junkrat9527"
+  },
+  {
+    "name": "漫蛙",
+    "key": "manwa",
+    "version": "1.1.6",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/manwa.js",
+    "description": "推荐 / 搜索 / 章节 / AES 图片｜来源：Junkrat9527"
+  },
+  {
+    "name": "漫蛙吧",
+    "key": "manwaba_junkrat9527",
+    "version": "1.1.3",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/manwaba_fixed_v113.js",
+    "description": "来源：Junkrat9527"
+  },
+  {
+    "name": "热门漫画",
+    "key": "remenmanhua",
+    "version": "1.0.0",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/remenmanhua.js",
+    "description": "列表 /comic/ + 章节 API 图片｜来源：Junkrat9527"
+  },
+  {
+    "name": "爱漫岛",
+    "key": "aiman",
+    "version": "2.3.6",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/amdcomic.js",
+    "description": "H｜来源：Junkrat9527"
+  },
+  {
+    "name": "爱看漫",
+    "key": "ikmmh",
+    "version": "2.1.2",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/ikm.js",
+    "description": "来源：Junkrat9527"
+  },
+  {
+    "name": "爱看漫",
+    "key": "ikmmh_v2",
+    "version": "3.0.0",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/ikmmh_v2.js",
+    "description": "来源：Junkrat9527"
+  },
+  {
+    "name": "爱飒漫画",
+    "key": "isamanhua",
+    "version": "1.0.0",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/isamanhua.js",
+    "description": "跳转看漫；getchapterlist / getchapterinfov2｜来源：Junkrat9527"
+  },
+  {
+    "name": "瓜子漫画",
+    "key": "guazimanhua",
+    "version": "1.0.4",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/guazi_manhua.js",
+    "description": "非个人自制｜来源：Junkrat9527"
+  },
+  {
+    "name": "瓜子漫画",
+    "key": "guazimanhua_junkrat9527",
+    "version": "1.0.4",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/guazi_manhua_v1.1.0.js",
+    "description": "来源：Junkrat9527"
+  },
+  {
+    "name": "百合会",
+    "key": "baihehui",
+    "version": "1.0.2",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/baihehui.js",
+    "description": "非个人自制，增加搜索需登录提示，增加漫画详情页链接复制，支持链接解析跳转｜来源：Junkrat9527"
+  },
+  {
+    "name": "看漫画",
+    "key": "kanman",
+    "version": "2.2.7",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/kanman.js",
+    "description": "非个人自制，增加分类页、发现页，修复封面显示异常的问题，增加漫画详情页链接复制，支持链接解析跳转｜来源：Junkrat9527"
+  },
+  {
+    "name": "腾讯动漫",
+    "key": "tencent_comics",
+    "version": "1.1.3",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/tencent_comics.js",
+    "description": "支持真实移动首页推荐区、搜索、分类、QQ 网页登录、账号状态与云收藏；分类显示真实名称并预先求出页数，只读取服务器已授权的网页章节。｜来源：Junkrat9527"
+  },
+  {
+    "name": "腾讯动漫（正版）",
+    "key": "qq_comic_official",
+    "version": "2.0.0",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/qq_comic_official.js",
+    "description": "非个人自制，支持账号登录，增加漫画详情页链接复制，支持链接解析跳转｜来源：Junkrat9527"
+  },
+  {
+    "name": "腾讯动漫（正版）",
+    "key": "qq_comic_official_v1",
+    "version": "1.0.3",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/tencent_comic_official.js",
+    "description": "来源：Junkrat9527"
+  },
+  {
+    "name": "野蛮漫画",
+    "key": "yemancomic",
+    "version": "1.3.8",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/yemancomic.js",
+    "description": "非个人自制，修复发现页1不显示内容的问题，增加漫画详情页链接复制，支持链接解析跳转｜来源：Junkrat9527"
+  },
+  {
+    "name": "飞翔漫画",
+    "key": "ffppt",
+    "version": "1.0.2",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/ffppt.js",
+    "description": "非个人自制，增加漫画详情页链接复制，支持链接解析跳转｜来源：Junkrat9527"
+  },
+  {
+    "name": "香蕉漫画",
+    "key": "banana",
+    "version": "1.0.4",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/banana.js",
+    "description": "非个人自制，增加漫画详情页链接复制，支持链接解析跳转｜来源：Junkrat9527"
+  },
+  {
+    "name": "香蕉漫画",
+    "key": "manhuauo_banana_v2",
+    "version": "1.0.3",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/manhuauo_fixed_v2.js",
+    "description": "来源：Junkrat9527"
+  },
+  {
+    "name": "鸟鸟韩漫",
+    "key": "nnhm",
+    "version": "1.3.0",
+    "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/nnhm.js",
+    "description": "H｜来源：Junkrat9527"
+  },
+  {
+    "name": "CxC",
+    "key": "cxc",
+    "version": "1.0.4",
+    "url": "https://cdn.jsdelivr.net/gh/LX7kM9/venera-configs@main/cxc.js",
+    "description": "非个人自制，可看小说（需下载字库后转换成图片，故无法即时调整字体排版，可在漫画源设置内调整，根据具体情况需要科学上网才可下载字库）增加漫画详情页链接复制，支持链接解析跳转｜来源：LX7kM9"
+  },
+  {
+    "name": "vomic",
+    "key": "vomic",
+    "version": "1.2.1",
+    "url": "https://cdn.jsdelivr.net/gh/LX7kM9/venera-configs@main/vomic.js",
+    "description": "非个人自制，增加漫画详情页链接复制，支持链接解析跳转｜来源：LX7kM9"
+  },
+  {
+    "name": "サンデーうぇぶり",
+    "key": "sunday_webry",
+    "version": "1.0.1",
+    "url": "https://cdn.jsdelivr.net/gh/LX7kM9/venera-configs@main/sunday_webry.js",
+    "description": "非个人自制，增加漫画详情页链接复制，支持链接解析跳转｜来源：LX7kM9"
+  },
+  {
+    "name": "CosplayTele",
+    "key": "cosplaytele",
+    "version": "1.0.4",
+    "url": "https://cdn.jsdelivr.net/gh/maplessovo/venera-configs@main/cosplaytele.js",
+    "description": "CosplayTele 图片集源，单页下滑加载，网页解析，支持分类、搜索、热词与分级筛选及热门推荐｜来源：maplessovo"
+  },
+  {
+    "name": "包子漫画（修订版）",
+    "key": "baozi_fixed",
+    "version": "1.1.3",
+    "url": "https://cdn.jsdelivr.net/gh/JunQianNuo/venera-sources@main/dist/baozi_fixed.js",
+    "description": "包子漫画：账号登录、网站书架读写、分类筛选、章节阅读、简繁备用入口。｜来源：JunQianNuo"
+  },
+  {
+    "name": "漫画1234（新版网站）",
+    "key": "mh1234_fixed",
+    "version": "1.2.2",
+    "url": "https://cdn.jsdelivr.net/gh/JunQianNuo/venera-sources@main/dist/mh1234_fixed.js",
+    "description": "漫画1234：网页登录、网站书架读写、分类筛选、章节阅读和网站地址设置。｜来源：JunQianNuo"
+  },
+  {
+    "name": "漫画站",
+    "key": "venera.js",
+    "version": "1.0.0",
+    "url": "https://cdn.jsdelivr.net/gh/940440952/comic-sources@main/sources/manhuazhan/venera.js",
+    "description": "manhuazhan；关键词搜索可能需要网页验证，支持漫画数字 ID。｜来源：940440952"
+  }
+]
