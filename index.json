@@ -211,7 +211,7 @@
   },
   {
     "name": "爱看漫",
-    "key": "ikmmh_官方",
+    "key": "ikmmh",
     "version": "1.0.6",
     "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/ikmmh.js",
     "description": "来源：官方"
@@ -582,7 +582,7 @@
   },
   {
     "name": "爱看漫",
-    "key": "ikmmh",
+    "key": "ikmmh_junkrat9527",
     "version": "2.1.2",
     "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/ikm.js",
     "description": "来源：Junkrat9527"
