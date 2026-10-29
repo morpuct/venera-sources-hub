@@ -6,17 +6,18 @@
 
 | 文件 | 条目 | 说明 |
 |---|---|---|
-| `index.verified.json` | **48** | **推荐**：按站点去重 + 实测直连可拉取（含 Komga/Kavita/Lanraragi 自建书库） |
-| `index.proxy.json` | 13 | 北京联通直连不通、需代理才可访问 |
+| `index.all.json` | **61** | **合集**：筛选去重后的全部站点，含 13 条需代理（`description` 注明） |
+| `index.verified.json` | 48 | 只含直连可拉取的（含 Komga/Kavita/Lanraragi 自建书库） |
+| `index.proxy.json` | 13 | 仅有代理需求的 |
 | `index.json` | 105 | 全量：8 仓合并未筛选，含同一站点的多个实现，排查用 |
 
 在 Venera / 漫阅 里“添加源链接”填：
 
 ```
-https://cdn.jsdelivr.net/gh/morpuct/venera-sources-hub@main/index.verified.json
+https://cdn.jsdelivr.net/gh/morpuct/venera-sources-hub@main/index.all.json
 ```
 
-> jsdelivr 对 `@main` 有缓存，刚更新过仓库时可能仍返回旧版；要确定内容用 `@<commit>` 或 `https://raw.githubusercontent.com/morpuct/venera-sources-hub/main/index.verified.json`。
+> jsdelivr 对 `@main` 有缓存，刚更新过仓库时可能仍返回旧版；要确定内容用 `@<commit>` 或 `https://raw.githubusercontent.com/morpuct/venera-sources-hub/main/index.all.json`。
 
 ## 收录来源
 
