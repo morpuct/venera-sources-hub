@@ -1,31 +1,44 @@
 # Venera 漫画源合订索引
 
-把官方与社区 8 个仓库的漫画源合并成一份索引，共 **105 个源**（按文件名去重）。
-每条都直接指向**原作者仓库里的原文件**，本仓库只存索引，不复制任何源码。
+汇总官方与社区 8 个仓库的漫画源，每一条都指向**原作者仓库里的原文件**；本仓库只存索引，不复制任何源码。
 
-## 使用方法
+## 三份清单
 
-Venera → 设置 → 漫画源 → 添加源列表，填入：
+| 文件 | 条目 | 说明 |
+|---|---|---|
+| `index.verified.json` | **48** | **推荐**：按站点去重 + 实测直连可拉取（含 Komga/Kavita/Lanraragi 自建书库） |
+| `index.proxy.json` | 13 | 北京联通直连不通、需代理才可访问 |
+| `index.json` | 105 | 全量：8 仓合并未筛选，含同一站点的多个实现，排查用 |
+
+在 Venera / 漫阅 里“添加源链接”填：
 
 ```
-https://cdn.jsdelivr.net/gh/morpuct/venera-sources-hub@main/index.json
+https://cdn.jsdelivr.net/gh/morpuct/venera-sources-hub@main/index.verified.json
 ```
 
-刷新后列表会显示 105 个源，逐个点“添加”即可。删除该源列表 URL 即可移除这批源。
+> jsdelivr 对 `@main` 有缓存，刚更新过仓库时可能仍返回旧版；要确定内容用 `@<commit>` 或 `https://raw.githubusercontent.com/morpuct/venera-sources-hub/main/index.verified.json`。
 
 ## 收录来源
 
-| 来源仓库 | 收录条数 | 说明 |
-|---|---|---|
-| venera-app/venera-configs | 33 | 官方基线 |
-| Junkrat9527/venera-sources | 65 | 聚合库，官方源之外的补充 |
-| LX7kM9/venera-configs | 3 | 官方未收录的独有源 |
-| JunQianNuo/venera-sources | 2 | 包子、漫画1234 修订版 |
-| maplessovo/venera-configs | 1 | 官方之外的独有源 |
-| 940440952/comic-sources | 1 | 漫画站 |
+| 来源仓库 | 全量 105 中的条数 |
+|---|---|
+| venera-app/venera-configs | 33（官方基线） |
+| Junkrat9527/venera-sources | 65 |
+| LX7kM9/venera-configs | 3 |
+| JunQianNuo/venera-sources | 2 |
+| maplessovo/venera-configs | 1 |
+| 940440952/comic-sources | 1 |
 
-同名的源（同一站点被多个仓库收录）只保留一条，优先取官方版本，其次按上表顺序。
-每条 `description` 里标注了 `来源：xxx`，便于区分是哪个仓库在维护。
+## 筛选口径
+
+1. 从每个源脚本里抽主域名（`baseUrl` 声明 → settings 默认域名 → 出现最多的非 CDN 域名）
+2. 在北京联通家宽直连下抓站点首页（`curl -L -m 15`），检测 `challenge_required`、`cf-chl`、`Just a moment`、`__gatekeeper` 等验证特征
+3. 直连失败的再经代理复核，区分“需代理”与“真不可用”
+4. 同一站点（根域名或名称相同）只保留一条：先看可用档位，再优先官方版本
+
+结果（85 个站点）：直连快 34、直连但慢 11、需代理 13、站点校验 3、不可用 21、自建书库 3。
+
+**局限**：测的是站点首页，不是源实际调用的接口。首页通只说明站点活着，详情页仍可能被二次校验拦下。例如官方包子源指向 `cn.bzmgcn.com`（302 → `www.baozimh.com`，403 `challenge_required`），而 JunQianNuo 的 `baozi_fixed.js` 走 `cn.webmota.com` 实测 200，筛选版保留的是后者。
 
 ## 注意
 
@@ -33,4 +46,4 @@ https://cdn.jsdelivr.net/gh/morpuct/venera-sources-hub@main/index.json
 - 部分源需要登录、邀请码或地区网络（索引里保留了原作者的说明文字）。
 - 源脚本的版权归各原作者，本仓库只做索引聚合；如原作者要求移除某条，删对应行即可。
 
-生成时间：2026-10-28　｜　生成脚本：见 `tools/build_hub.py`
+生成时间：2026-10-28
