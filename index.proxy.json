@@ -1,0 +1,93 @@
+[
+ {
+  "name": "311漫画",
+  "key": "s311_com",
+  "version": "1.2.0",
+  "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/311.js",
+  "description": "需代理才能访问｜源：venera-sources"
+ },
+ {
+  "name": "H-Comic",
+  "key": "hcomic",
+  "version": "1.0.0",
+  "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/hcomic.js",
+  "description": "需代理才能访问｜源：venera-configs"
+ },
+ {
+  "name": "Komiic",
+  "key": "Komiic",
+  "version": "1.0.3",
+  "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/komiic.js",
+  "description": "需代理才能访问｜源：venera-configs"
+ },
+ {
+  "name": "Komiic",
+  "key": "Komiic_junkrat9527",
+  "version": "1.0.8",
+  "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/komiic_dual.js",
+  "description": "需代理才能访问｜源：venera-sources"
+ },
+ {
+  "name": "Mangabz",
+  "key": "mangabz",
+  "version": "1.0.0",
+  "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/mangabz.js",
+  "description": "需代理才能访问｜源：venera-sources"
+ },
+ {
+  "name": "ehentai",
+  "key": "ehentai",
+  "version": "1.1.8",
+  "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/ehentai.js",
+  "description": "需代理才能访问｜源：venera-configs"
+ },
+ {
+  "name": "jcomic.net",
+  "key": "jcomic",
+  "version": "1.0.0",
+  "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/jcomic.js",
+  "description": "需代理才能访问｜源：venera-configs"
+ },
+ {
+  "name": "nhentai",
+  "key": "nhentai",
+  "version": "1.1.0",
+  "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/nhentai.js",
+  "description": "需代理才能访问｜源：venera-configs"
+ },
+ {
+  "name": "yande.re",
+  "key": "yandere",
+  "version": "4.9.3",
+  "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/yandere.js",
+  "description": "需代理才能访问｜源：venera-sources"
+ },
+ {
+  "name": "zero搬运网",
+  "key": "zerobyw33",
+  "version": "1.2.0",
+  "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/zerobyw33.js",
+  "description": "需代理才能访问｜源：venera-sources"
+ },
+ {
+  "name": "古风漫画",
+  "key": "gfmh",
+  "version": "1.3.1",
+  "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/gfmh.js",
+  "description": "需代理才能访问｜源：venera-sources"
+ },
+ {
+  "name": "百合会",
+  "key": "baihehui",
+  "version": "1.0.2",
+  "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/baihehui.js",
+  "description": "需代理才能访问｜源：venera-sources"
+ },
+ {
+  "name": "紳士漫畫",
+  "key": "wnacg",
+  "version": "1.0.6",
+  "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/wnacg.js",
+  "description": "需代理才能访问｜源：venera-configs"
+ }
+]
