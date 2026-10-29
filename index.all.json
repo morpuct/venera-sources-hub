@@ -1,0 +1,429 @@
+[
+ {
+  "name": "51漫画",
+  "key": "manga51_junkrat9527",
+  "version": "1.2.0",
+  "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/manga51.js",
+  "description": "直连可用｜1.15s｜源：venera-sources"
+ },
+ {
+  "name": "A漫",
+  "key": "aman8",
+  "version": "1.0.0",
+  "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/aman.js",
+  "description": "直连可用｜1.97s｜源：venera-sources"
+ },
+ {
+  "name": "CCC追漫台",
+  "key": "ccc",
+  "version": "1.0.1",
+  "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/ccc.js",
+  "description": "直连可用｜1.44s｜源：venera-configs"
+ },
+ {
+  "name": "CxC",
+  "key": "cxc",
+  "version": "1.0.4",
+  "url": "https://cdn.jsdelivr.net/gh/LX7kM9/venera-configs@main/cxc.js",
+  "description": "直连可用｜1.02s｜源：venera-configs"
+ },
+ {
+  "name": "Jmcomic",
+  "key": "jmx",
+  "version": "2.1.0",
+  "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/jmcomic.js",
+  "description": "直连可用｜1.66s｜源：venera-sources"
+ },
+ {
+  "name": "LINE WEBTOON",
+  "key": "webtoons_zh_hant",
+  "version": "1.0.1",
+  "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/webtoons_zh_hant.js",
+  "description": "直连可用｜2.47s｜源：venera-sources"
+ },
+ {
+  "name": "MOJOIN",
+  "key": "mojoin_v2",
+  "version": "1.0.7",
+  "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/mojoin_fixed_v107.js",
+  "description": "直连可用｜1.41s｜源：venera-sources"
+ },
+ {
+  "name": "MangaDex",
+  "key": "manga_dex",
+  "version": "1.2.0",
+  "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/manga_dex.js",
+  "description": "直连可用｜0.96s｜源：venera-configs"
+ },
+ {
+  "name": "NoyManga",
+  "key": "noymanga",
+  "version": "1.1.5",
+  "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/noymanga.js",
+  "description": "直连可用｜0.64s｜源：venera-sources"
+ },
+ {
+  "name": "SF漫画",
+  "key": "sfacg_manhua",
+  "version": "1.0.2",
+  "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/sfacg_manhua.js",
+  "description": "直连可用｜0.24s｜源：venera-sources"
+ },
+ {
+  "name": "W漫画",
+  "key": "wmanhua",
+  "version": "1.0.2",
+  "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/wmanhua.js",
+  "description": "直连可用｜1.08s｜源：venera-sources"
+ },
+ {
+  "name": "vomic",
+  "key": "vomic",
+  "version": "1.2.1",
+  "url": "https://cdn.jsdelivr.net/gh/LX7kM9/venera-configs@main/vomic.js",
+  "description": "直连可用｜0.35s｜源：venera-configs"
+ },
+ {
+  "name": "サンデーうぇぶり",
+  "key": "sunday_webry",
+  "version": "1.0.1",
+  "url": "https://cdn.jsdelivr.net/gh/LX7kM9/venera-configs@main/sunday_webry.js",
+  "description": "直连可用｜2.63s｜源：venera-configs"
+ },
+ {
+  "name": "再漫画",
+  "key": "zaimanhua",
+  "version": "1.0.2",
+  "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/zaimanhua.js",
+  "description": "直连可用｜0.06s｜源：venera-configs"
+ },
+ {
+  "name": "动漫啦",
+  "key": "dongman_la_junkrat9527",
+  "version": "1.0.1",
+  "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/dongman_la_fixed_v101.js",
+  "description": "直连可用｜0.95s｜源：venera-sources"
+ },
+ {
+  "name": "动漫屋",
+  "key": "dm5",
+  "version": "7.0.3",
+  "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/dm5.js",
+  "description": "直连可用｜0.47s｜源：venera-sources"
+ },
+ {
+  "name": "咚漫",
+  "key": "dongmanmanhua",
+  "version": "1.0.6",
+  "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/dongmanmanhua.js",
+  "description": "直连可用｜0.84s｜源：venera-sources"
+ },
+ {
+  "name": "好看漫画",
+  "key": "haokan_txt",
+  "version": "1.0.4",
+  "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/haokan.js",
+  "description": "直连可用｜3.72s｜源：venera-sources"
+ },
+ {
+  "name": "少年ジャンプ＋",
+  "key": "shonen_jump_plus",
+  "version": "1.1.1",
+  "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/shonen_jump_plus.js",
+  "description": "直连可用｜3.58s｜源：venera-configs"
+ },
+ {
+  "name": "思思漫画",
+  "key": "sisimanhua",
+  "version": "1.0.0",
+  "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/sisimanhua.js",
+  "description": "直连可用｜2.80s｜源：venera-sources"
+ },
+ {
+  "name": "来漫画",
+  "key": "laimanhua_split",
+  "version": "1.2.2",
+  "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/laimanhua.js",
+  "description": "直连可用｜2.96s｜源：venera-sources"
+ },
+ {
+  "name": "极速漫画",
+  "key": "one_kkk",
+  "version": "2.0.0",
+  "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/one_kkk.js",
+  "description": "直连可用｜0.34s｜源：venera-sources"
+ },
+ {
+  "name": "漫客栈",
+  "key": "mkzhan",
+  "version": "1.1.4",
+  "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/mkzhan.js",
+  "description": "直连可用｜0.10s｜源：venera-sources"
+ },
+ {
+  "name": "漫本",
+  "key": "manben",
+  "version": "1.1.0",
+  "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/manben.js",
+  "description": "直连可用｜0.24s｜源：venera-sources"
+ },
+ {
+  "name": "漫画1234（新版网站）",
+  "key": "mh1234_fixed",
+  "version": "1.2.2",
+  "url": "https://cdn.jsdelivr.net/gh/JunQianNuo/venera-sources@main/dist/mh1234_fixed.js",
+  "description": "直连可用｜1.84s｜源：venera-sources"
+ },
+ {
+  "name": "漫画人",
+  "key": "manhuaren",
+  "version": "1.0.0",
+  "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/manhuaren.js",
+  "description": "直连可用｜0.25s｜源：venera-configs"
+ },
+ {
+  "name": "漫蛙吧",
+  "key": "manwaba_junkrat9527",
+  "version": "1.1.3",
+  "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/manwaba_fixed_v113.js",
+  "description": "直连可用｜2.22s｜源：venera-sources"
+ },
+ {
+  "name": "爱看漫",
+  "key": "ikmmh",
+  "version": "1.0.6",
+  "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/ikmmh.js",
+  "description": "直连可用｜0.90s｜源：venera-configs"
+ },
+ {
+  "name": "爱飒漫画",
+  "key": "isamanhua",
+  "version": "1.0.0",
+  "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/isamanhua.js",
+  "description": "直连可用｜0.04s｜源：venera-sources"
+ },
+ {
+  "name": "瓜子漫画",
+  "key": "guazimanhua_junkrat9527",
+  "version": "1.0.4",
+  "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/guazi_manhua_v1.1.0.js",
+  "description": "直连可用｜0.75s｜源：venera-sources"
+ },
+ {
+  "name": "腾讯动漫",
+  "key": "tencent_comics",
+  "version": "1.1.3",
+  "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/tencent_comics.js",
+  "description": "直连可用｜0.36s｜源：venera-sources"
+ },
+ {
+  "name": "野蛮漫画",
+  "key": "yemancomic",
+  "version": "1.3.8",
+  "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/yemancomic.js",
+  "description": "直连可用｜0.93s｜源：venera-sources"
+ },
+ {
+  "name": "飞翔漫画",
+  "key": "ffppt",
+  "version": "1.0.2",
+  "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/ffppt.js",
+  "description": "直连可用｜4.24s｜源：venera-sources"
+ },
+ {
+  "name": "香蕉漫画",
+  "key": "banana",
+  "version": "1.0.4",
+  "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/banana.js",
+  "description": "直连可用｜0.25s｜源：venera-sources"
+ },
+ {
+  "name": "GoDa漫画",
+  "key": "goda",
+  "version": "1.2.1",
+  "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/goda.js",
+  "description": "直连可用但慢｜15.00s｜源：venera-configs"
+ },
+ {
+  "name": "Rawkuma",
+  "key": "rawkuma",
+  "version": "1.1.3",
+  "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/rawkuma.js",
+  "description": "直连可用但慢｜15.00s｜源：venera-sources"
+ },
+ {
+  "name": "comick",
+  "key": "comick",
+  "version": "1.2.0",
+  "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/comick.js",
+  "description": "直连可用但慢｜15.00s｜源：venera-configs"
+ },
+ {
+  "name": "包子漫画（修订版）",
+  "key": "baozi_fixed",
+  "version": "1.1.3",
+  "url": "https://cdn.jsdelivr.net/gh/JunQianNuo/venera-sources@main/dist/baozi_fixed.js",
+  "description": "直连可用但慢｜15.00s｜源：venera-sources"
+ },
+ {
+  "name": "嬉皮漫画",
+  "key": "hipmh",
+  "version": "1.0.6",
+  "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/hipmh.js",
+  "description": "直连可用但慢｜5.59s｜源：venera-sources"
+ },
+ {
+  "name": "布卡漫画",
+  "key": "bukamh",
+  "version": "1.2.9",
+  "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/bukamh.js",
+  "description": "直连可用但慢｜15.00s｜源：venera-sources"
+ },
+ {
+  "name": "次元漫画",
+  "key": "cycomic",
+  "version": "1.0.3",
+  "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/cycomic.js",
+  "description": "直连可用但慢｜8.53s｜源：venera-sources"
+ },
+ {
+  "name": "漫画皮",
+  "key": "manhuapi",
+  "version": "1.4.2",
+  "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/manhuapi.js",
+  "description": "直连可用但慢｜15.00s｜源：venera-sources"
+ },
+ {
+  "name": "漫画站",
+  "key": "venera.js",
+  "version": "1.0.0",
+  "url": "https://cdn.jsdelivr.net/gh/940440952/comic-sources@main/sources/manhuazhan/venera.js",
+  "description": "直连可用但慢｜15.00s｜源：comic-sources"
+ },
+ {
+  "name": "漫网",
+  "key": "manwang",
+  "version": "1.3.4",
+  "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/manwang.js",
+  "description": "直连可用但慢｜15.00s｜源：venera-sources"
+ },
+ {
+  "name": "爱漫岛",
+  "key": "aiman",
+  "version": "2.3.6",
+  "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/amdcomic.js",
+  "description": "直连可用但慢｜12.01s｜源：venera-sources"
+ },
+ {
+  "name": "Kavita",
+  "key": "kavita",
+  "version": "1.0.0",
+  "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/kavita.js",
+  "description": "自建书库·需填自己的服务器｜15.00s｜源：venera-configs"
+ },
+ {
+  "name": "Komga",
+  "key": "komga",
+  "version": "1.0.0",
+  "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/komga.js",
+  "description": "自建书库·需填自己的服务器｜5.30s｜源：venera-configs"
+ },
+ {
+  "name": "Lanraragi",
+  "key": "lanraragi",
+  "version": "1.1.0",
+  "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/lanraragi.js",
+  "description": "自建书库·需填自己的服务器｜1.53s｜源：venera-configs"
+ },
+ {
+  "name": "311漫画",
+  "key": "s311_com",
+  "version": "1.2.0",
+  "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/311.js",
+  "description": "需代理才能访问｜源：venera-sources"
+ },
+ {
+  "name": "H-Comic",
+  "key": "hcomic",
+  "version": "1.0.0",
+  "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/hcomic.js",
+  "description": "需代理才能访问｜源：venera-configs"
+ },
+ {
+  "name": "Komiic",
+  "key": "Komiic",
+  "version": "1.0.3",
+  "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/komiic.js",
+  "description": "需代理才能访问｜源：venera-configs"
+ },
+ {
+  "name": "Komiic",
+  "key": "Komiic_junkrat9527",
+  "version": "1.0.8",
+  "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/komiic_dual.js",
+  "description": "需代理才能访问｜源：venera-sources"
+ },
+ {
+  "name": "Mangabz",
+  "key": "mangabz",
+  "version": "1.0.0",
+  "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/mangabz.js",
+  "description": "需代理才能访问｜源：venera-sources"
+ },
+ {
+  "name": "ehentai",
+  "key": "ehentai",
+  "version": "1.1.8",
+  "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/ehentai.js",
+  "description": "需代理才能访问｜源：venera-configs"
+ },
+ {
+  "name": "jcomic.net",
+  "key": "jcomic",
+  "version": "1.0.0",
+  "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/jcomic.js",
+  "description": "需代理才能访问｜源：venera-configs"
+ },
+ {
+  "name": "nhentai",
+  "key": "nhentai",
+  "version": "1.1.0",
+  "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/nhentai.js",
+  "description": "需代理才能访问｜源：venera-configs"
+ },
+ {
+  "name": "yande.re",
+  "key": "yandere",
+  "version": "4.9.3",
+  "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/yandere.js",
+  "description": "需代理才能访问｜源：venera-sources"
+ },
+ {
+  "name": "zero搬运网",
+  "key": "zerobyw33",
+  "version": "1.2.0",
+  "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/zerobyw33.js",
+  "description": "需代理才能访问｜源：venera-sources"
+ },
+ {
+  "name": "古风漫画",
+  "key": "gfmh",
+  "version": "1.3.1",
+  "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/gfmh.js",
+  "description": "需代理才能访问｜源：venera-sources"
+ },
+ {
+  "name": "百合会",
+  "key": "baihehui",
+  "version": "1.0.2",
+  "url": "https://cdn.jsdelivr.net/gh/Junkrat9527/venera-sources@master/baihehui.js",
+  "description": "需代理才能访问｜源：venera-sources"
+ },
+ {
+  "name": "紳士漫畫",
+  "key": "wnacg",
+  "version": "1.0.6",
+  "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/wnacg.js",
+  "description": "需代理才能访问｜源：venera-configs"
+ }
+]
